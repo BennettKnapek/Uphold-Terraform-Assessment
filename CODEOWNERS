@@ -1,2 +1,5 @@
 # Original creater and owner of the file
 *.tf @BennettKnapek
+
+# Golang files are edited by bennett
+*.go @BennettKnapek
